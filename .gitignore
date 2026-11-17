@@ -1,0 +1,9 @@
+@'
+data/
+.env
+.venv/
+__pycache__/
+*.pyc
+Thumbs.db
+desktop.ini
+'@ | Set-Content .gitignore
